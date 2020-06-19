@@ -1,4 +1,4 @@
-﻿#error.svelte-ardmue{background:darkred;color:white;flex:1;padding:10px}.invisible.svelte-ardmue{display:none}.visible.svelte-ardmue{display:block}
+#error.svelte-ardmue{background:darkred;color:white;flex:1;padding:10px}.invisible.svelte-ardmue{display:none}.visible.svelte-ardmue{display:block}
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
@@ -2472,7 +2472,7 @@
 }
 
 #editor.svelte-1xoomsa{width:100%;min-width:350px;height:400px;max-height:300px;flex:1}
-#editor-conf.svelte-1hwndan{width:100%;min-width:350px;height:200px;max-height:300px;flex:1}
+#editor-conf.svelte-fjksx{width:100%;min-width:350px;height:200px;max-height:300px;flex:1}
 #view.svelte-de7j0c{border:1px solor darkred;flex:1}#container.svelte-de7j0c{overflow-x:auto}.error.svelte-de7j0c{opacity:0.5}
 #card.svelte-94c5zs{border:1px solid lightgray;margin-bottom:16px}#title.svelte-94c5zs{border-bottom:1px solid lightgray}#content.svelte-94c5zs{padding-top:16px}.padding.svelte-94c5zs{padding:16px}
 #tag.svelte-kzz8td{height:auto;margin:0 8px 0 0;padding:0 7px;font-size:12px;line-height:20px;white-space:nowrap;border:1px solid #d9d9d9;border-radius:4px;cursor:default;font-size:smaller;color:#52c41a;background:#f6ffed;border-color:#b7eb8f;margin-left:8px}

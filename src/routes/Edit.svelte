@@ -14,8 +14,8 @@ import pkg from '@mermaid/package.json'
 export let mermaidVersion = pkg.version
 
 onMount(async () => {
-	ga('send', 'pageview');
-	ga('send', 'event', 'version', mermaidVersion, mermaidVersion);
+	//ga('send', 'pageview');
+	//ga('send', 'event', 'version', mermaidVersion, mermaidVersion);
 	fromUrl(params.data);
 });
 
@@ -208,7 +208,7 @@ onMount(async () => {
 			</Card>
 			<Card title="Mermaid Configuration" ><Config /></Card>
 			<Card title='Links'>
-				<ul className='marketing-links'>
+				<ul className='marketing-links' class="marketing-links">
 					<li>
 						<a href="https://mermaid-js.github.io/mermaid" target="_blank">
 										Mermaid Documentation
