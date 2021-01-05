@@ -1,0 +1,3 @@
++ tang mermaid version trong package.json
++ yarn install
++ yarn release 
